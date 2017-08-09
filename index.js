@@ -1,4 +1,4 @@
-var options = ["Besko", "Woki", "Havana", "Ichicken", "Plaza", "Maslina", "Happy"];
+var options = ["Besko", "Woki", "Havana", "Ichicken", "Plaza", "Maslina", "Happy", "Linija", "Mrvica"];
 
 var startAngle = 0;
 var arc = Math.PI / (options.length / 2);
