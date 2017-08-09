@@ -34,6 +34,10 @@ function getColor(item, maxitem) {
   return RGB2Color(red, green, blue);
 }
 
+function hideButton(){
+  $("#spin").hide()
+}
+
 function drawRouletteWheel() {
   var canvas = document.getElementById("canvas");
   if (canvas.getContext) {
